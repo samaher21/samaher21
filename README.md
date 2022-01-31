@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Hello World, my name is Samaher
+**Hello World, my name is Samaher**
 
 **I'm a Data Scientist**
 
@@ -11,6 +11,7 @@ Hello World, my name is Samaher
 
 **Skills:** Python / Java / c++/ HTML 
 
+### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samaher-alhadi-b06269183/) 
 
